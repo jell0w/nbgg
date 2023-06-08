@@ -16,7 +16,7 @@ export default class TitleWorker {
      * 设置副标题
      * */
     setSubtitleText(text){
-        this.goGoSubtitleDiv.innerText = text;
+//         this.goGoSubtitleDiv.innerText = text;
     }
     /**
      * 重置标题到初始状态
